@@ -1,0 +1,1 @@
+export type Morphism<A,B> = (x: A) => B
